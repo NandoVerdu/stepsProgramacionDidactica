@@ -2,7 +2,7 @@
 node_modules
 
 # Archivos de compilación (build)
-dist
+
 .DS_Store
 
 # Logs
